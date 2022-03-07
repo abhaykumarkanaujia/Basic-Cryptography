@@ -4,7 +4,7 @@ Basic Cryptography can Encrypt or Decrypt text files.
 To Encrypt:
 -> Run main.py in command line
 -> Enter File Location you wish to Encrypt.
--> Create a Password. (save it somewhere as you will need when decypting)
+-> Create a Password. (save it somewhere as you will need when decrypting)
 -> Encryption Complete.
 
 To Decrypt:
